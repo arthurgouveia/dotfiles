@@ -8,6 +8,7 @@
 	required = true
 [core]
 	excludesfile = ~/.gitignore_global
+	editor = code --wait
 [merge]
 	ff = false
 [pull]
